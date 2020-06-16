@@ -2,9 +2,9 @@
 #include<string>
 using namespace std;
 
-//»ç¿ëµÈ ¾Ë°í¸®Áò Å¸ÀÔÀº À©µµ¿ì ½½¶óÀÌµù ±â¹ýÀÌ´Ù
-//¾î¶² ÇÑ ¹®ÀÚ¿­¿¡¼­ Æ¯Á¤ Á¶°ÇÀ» ¸¸Á·ÇÏ´ÂÁö È®ÀÎÇÏ±â À§ÇÑ ¹üÀ§ÀÇ ½ÃÀÛÁ¡°ú ³¡Á¡À» Á¶Á¤ÇØ³ª°¡¸é¼­
-//½Ã°£º¹Àâµµ¸¦ ÃÖ´ëÇÑ ÁÙÀÎ ¾Ë°í¸®Áò
+//ì‚¬ìš©ëœ ì•Œê³ ë¦¬ì¦˜ íƒ€ìž…ì€ ìœˆë„ìš° ìŠ¬ë¼ì´ë”© ê¸°ë²•ì´ë‹¤
+//ì–´ë–¤ í•œ ë¬¸ìžì—´ì—ì„œ íŠ¹ì • ì¡°ê±´ì„ ë§Œì¡±í•˜ëŠ”ì§€ í™•ì¸í•˜ê¸° ìœ„í•œ ë²”ìœ„ì˜ ì‹œìž‘ì ê³¼ ëì ì„ ì¡°ì •í•´ë‚˜ê°€ë©´ì„œ
+//ì‹œê°„ë³µìž¡ë„ë¥¼ ìµœëŒ€í•œ ì¤„ì¸ ì•Œê³ ë¦¬ì¦˜
 
 int WindowSliding(string x, string y) {
 	int Win_CntArr[128] = {};
